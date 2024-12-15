@@ -7,7 +7,7 @@ This GIMP plug-in complements the weahtr python package and workflow for automat
 You will need a recent (2.10) GIMP version, and the flatpak version of GIMP when using linux.
 
 1. Copy the python file to the any folder.
-2. Make the script executable (`chmod +x ` in unix based OS)
+2. Make the script executable (`chmod +x weahtr_guides.py` in unix based OS)
 3. Add the folder to the GIMP preferences in the plug-in menu
 
 ## Use
@@ -18,5 +18,3 @@ Select an output directory and filename.
 
 To clear the guides use `Image - Guides - Remove all Guides`
 
-
-##
