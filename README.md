@@ -29,4 +29,4 @@ To activate the plug-in, open the GIMP preferences using the `Edit - Preferences
 
 Create guides in GIMP by clicking in the side or top margins, and [dragging the cursor into an open image](https://docs.gimp.org/2.10/en/gimp-concepts-image-guides.html). To save the guides go to `Image - Guides - weahtr save guides ...` and select an output directory and filename. The output data is a JSON file with the source filename and pixel coordinates of rows and columns.
 
-![](plugin_use.webm)
+![](plugin_use.gif)
